@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="jar-export">
+    <output-path>$PROJECT_DIR$/out/artifacts/jar_export</output-path>
+    <root id="root">
+      <element id="archive" name="WidgetShortcut.jar">
+        <element id="module-output" name="WidgetShortcut" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
