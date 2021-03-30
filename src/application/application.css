@@ -6,7 +6,7 @@
 
 .button {
     -fx-background-color: transparent;
-    -fx-background-size: 60.0 60.0;
+    -fx-background-size: 64.0 64.0;
     -fx-background-repeat: no-repeat;
     -fx-background-position: center;
 }

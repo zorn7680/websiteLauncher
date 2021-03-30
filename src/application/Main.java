@@ -22,8 +22,8 @@ public class Main extends Application {
         try {
             // Root Node - Layout der Szene
             HBox root = new HBox();
-            root.setPrefSize(340.0, 70.0);
-            root.setSpacing(10.0);
+            root.setPrefSize(350.0, 70.0);
+            root.setSpacing(5.0);
             root.setAlignment(Pos.CENTER);
 
             // Elemente erstellen wie Buttons etc.
